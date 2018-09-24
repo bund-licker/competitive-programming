@@ -1,2 +1,2 @@
 # coding-challenges
-Programming challenges completed from Code Eval, CodingBat and Hacker Rank
+Programming challenges completed from Leet Code, CodingBat, Firecode and Hacker Rank
