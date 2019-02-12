@@ -1,8 +1,8 @@
 ## Sock Merchant
 
 * __HackerRank Link:__ https://www.hackerrank.com/challenges/sock-merchant
-* __Difficulty: Easy
-* __Solutionin: Java
+* __Difficulty:__ Easy
+* __Solutionin:__ Java
 
 =====================
 
